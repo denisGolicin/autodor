@@ -6,6 +6,6 @@
   },
   "scripts": {
     "lint": "eslint .",
-    "fix": "eslint --fix a."
+    "fix": "eslint --fix ."
   }
 }
